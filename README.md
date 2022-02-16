@@ -19,6 +19,16 @@ And more...
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RubenJTL)](https://github.com/anuraghazra/github-readme-stats)
 
+## Find me at:
+
+</br>
+
+[![Twitter](https://img.shields.io/badge/Twitter-@ruben-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/ruben_torres03)
+[![Instagram](https://img.shields.io/badge/Instagram-@ruben-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/rubenjtl15)
+[![Facebook](https://img.shields.io/badge/Facebook-@ruben-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/jesus.torres.12979)
+</br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ruben-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ruben-torres-lima-710a88193)
+
 
 <!--
 **RubenJTL/RubenJTL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
