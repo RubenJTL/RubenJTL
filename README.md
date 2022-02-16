@@ -17,7 +17,7 @@
 And more...
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RubenJTL)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RubenJTL&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Find me at:
 
